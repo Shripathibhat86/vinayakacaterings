@@ -25,7 +25,7 @@ const Footer = () => {
 
         <div className="footer-contact">
           <h3>Contact Us</h3>
-          <p>Ph: 9164567454</p>
+          <p>Ph:+91 9164567454</p>
           <p>Surathkal, Mangalore 575014</p>
           <p>Karnataka, India</p>
           <a href="mailto:vinayakacaterings@gmail.com" className="contact-link">vinayakacaterings@gmail.com</a>
