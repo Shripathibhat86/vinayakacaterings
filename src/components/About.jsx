@@ -13,7 +13,7 @@ const About = () => {
             </div>
             <div className="about-badge">
               <span className="badge-text-small">Since</span>
-              <span className="badge-text-large">2018</span>
+              <span className="badge-text-large">2021</span>
             </div>
           </div>
           
