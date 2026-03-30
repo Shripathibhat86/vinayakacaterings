@@ -3,10 +3,13 @@ import './Gallery.css';
 
 const Gallery = () => {
   const images = [
-    { src: '/thali.png', alt: 'Delicious South Indian Thali', title: 'Traditional Thali' },
-    { src: '/hero.png', alt: 'Elaborate Vegetarian Buffet', title: 'Buffet Spread' },
+    { src: '/Cutlet.png', alt: '', title: 'Cutlet' },
+    { src: '/Gari Ladu.png', alt: '', title: 'Gari Ladu' },
     // Reusing the generated images for now to create the gallery grid
-    { src: '/Breakfast.png', alt: 'Catering Setup', title: 'Breakfast Thali' }
+    { src: '/Gauva Sweet.png', alt: '', title: 'Gauva Sweet' },
+    { src: '/Apple Sweet.png', alt: '', title: 'Apple Sweet' },
+    { src: '/Chakkuli.png', alt: '', title: 'Chakkuli' },
+    { src: '/Dahi Vada.png', alt: '', title: 'Dahi Vada' }
   ];
 
   return (
