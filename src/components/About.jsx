@@ -25,7 +25,7 @@ const About = () => {
               Indulge in a celebration with great food!
             </h2>
             <p className="about-description">
-              Vinayaka Caterings is a professional catering company that was established in 2018, offering comprehensive services to meet all your culinary needs. Our primary goal is to provide a unique and memorable dining experience with each meal we serve. We are committed to maintaining uncompromised quality, exceptional hygiene standards, meticulous presentation and attention to detail to ensure the utmost satisfaction of our customers.
+              Vinayaka Caterings is a professional catering company that was established in 2021, offering comprehensive services to meet all your culinary needs. Our primary goal is to provide a unique and memorable dining experience with each meal we serve. We are committed to maintaining uncompromised quality, exceptional hygiene standards, meticulous presentation and attention to detail to ensure the utmost satisfaction of our customers.
             </p>
             <a href="https://wa.me/9164567454" target="_blank" rel="noopener noreferrer" className="btn about-btn">
               Book Now 
