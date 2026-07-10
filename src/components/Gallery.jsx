@@ -9,6 +9,7 @@ const Gallery = () => {
     { src: '/Gauva Sweet.png', alt: '', title: 'Gauva Sweet' },
     { src: '/Apple Sweet.png', alt: '', title: 'Apple Sweet' },
     { src: '/Chakkuli.png', alt: '', title: 'Chakkuli' },
+<<<<<<< HEAD
     { src: '/Dry Fruits Burfi.png', alt: '', title: 'Dry Fruits Burfi' },
     { src: '/Dahi Vada.png', alt: '', title: 'Dahi Vada' },
     { src: '/Holige.png', alt: '', title: 'Holige/Obbattu' },
@@ -19,6 +20,8 @@ const Gallery = () => {
     { src: '/Kosambari1.png', alt: '', title: 'Kosambari' },
     { src: '/Majjige Huli.png', alt: '', title: 'Majjige Huli' }, 
     { src: '/Pista Burfi.png', alt: '', title: 'Pista Burfi' } 
+=======
+    { src: '/Dahi Vada.png', alt: '', title: 'Dahi Vada' }
   ];
 
   return (
