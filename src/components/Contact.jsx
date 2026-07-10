@@ -27,11 +27,7 @@ const Contact = () => {
                 <div className="contact-icon">📞</div>
                 <div className="contact-text">
                   <h4>Phone Number</h4>
-<<<<<<< HEAD
-                  <p>9164567454</p>
-=======
                   <p>+91 9164567454</p>
-
                 </div>
               </div>
               
